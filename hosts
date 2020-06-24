@@ -1,1 +1,245 @@
-21312
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+##########HOST##########
+127.0.0.1 ll.atdmt.com
+127.0.0.1 ll.qq.com
+127.0.0.1 ll002.avast.com
+127.0.0.1 lladinserts.us.publicus.com
+127.0.0.1 llcpro.com.hk
+127.0.0.1 llg329.qq.com
+127.0.0.1 llisoft.ke.qq.com
+127.0.0.1 llk.qq.com
+127.0.0.1 lll.qq.com
+127.0.0.1 llllove1314.qzone.qq.com
+127.0.0.1 lloyd.elandmall.com
+127.0.0.1 llq8116.qq.com
+127.0.0.1 llts.qq.com
+127.0.0.1 lluvialu.qq.com
+127.0.0.1 lm-in-f100.1e100.net
+127.0.0.1 lm-in-f101.1e100.net
+127.0.0.1 lm-in-f153.1e100.net
+127.0.0.1 lm-in-f26.1e100.net
+127.0.0.1 lm-in-x1a.1e100.net
+127.0.0.1 lm.b.qq.com
+127.0.0.1 lm.licenses.adobe.com
+127.0.0.1 lm.qq.com
+127.0.0.1 lm.xiashu.la
+127.0.0.1 lmbsy.qq.com
+127.0.0.1 lmcd.us.intellitxt.com
+127.0.0.1 lmcsy.qq.com
+127.0.0.1 lme.gamefeeds.qq.com
+127.0.0.1 lmfamk.qq.com
+127.0.0.1 lmhits.comajax.googleapis.com
+127.0.0.1 lmlicenses.wip4.adobe.com
+127.0.0.1 lmmogciuhok5ul.storage.googleapis.com
+127.0.0.1 lms.qq.com
+127.0.0.1 lmschool.ke.qq.com
+127.0.0.1 lmsjy.qq.com
+127.0.0.1 lmwcn8pgmflxxpcl.akamaized.net
+127.0.0.1 lmxtiyan.ledou.qq.com
+127.0.0.1 lmydzd.qq.com
+127.0.0.1 ln-cdn.akamaized.net
+127.0.0.1 ln-play.akamaized.net
+127.0.0.1 ln.adu.com.hk
+127.0.0.1 ln.qq.com
+127.0.0.1 ln18-new-login.lol.qq.com
+127.0.0.1 ln19-new-login.lol.qq.com
+127.0.0.1 ln19new-login.lol.qq.com
+127.0.0.1 lndl.cncnet.net
+127.0.0.1 lndl.qq.com
+127.0.0.1 lndmatch3.akamaized.net
+127.0.0.1 lngame.qzone.qq.com
+127.0.0.1 lnh.usajax.googleapis.com
+127.0.0.1 lnln-aging.mopita.com.akamaized.net
+127.0.0.1 lnmp.mgbdc.ccfonts.googleapis.com
+127.0.0.1 lnn.qq.com
+127.0.0.1 lns-bzn-32-82-254-0-0-illegal.adsl.proxad.net
+127.0.0.1 lns-bzn-60-82-254-196-0-illegal.adsl.proxad.net
+127.0.0.1 lns-bzn-60-82-254-232-0-illegal.adsl.proxad.net
+127.0.0.1 lns-bzn-60-82-254-242-0-illegal.adsl.proxad.net
+127.0.0.1 lntl.mtp.tencent.com
+127.0.0.1 lnydzd.qq.com
+127.0.0.1 lo-in-f100.1e100.net
+127.0.0.1 lo-in-f113.1e100.net
+127.0.0.1 lo-in-f132.1e100.net
+127.0.0.1 lo-in-f188.1e100.net
+127.0.0.1 lo-in-f198.1e100.net
+127.0.0.1 lo-in-f200.1e100.net
+127.0.0.1 lo-in-f211.1e100.net
+127.0.0.1 lo-in-f95.1e100.net
+127.0.0.1 lo-in-x1b.1e100.net
+127.0.0.1 lo.qq.com
+127.0.0.1 lo0--bbr1-hnd1.ops.sfdc.net
+127.0.0.1 lo0-gsr1-th1.gdgz.cncnet.net
+127.0.0.1 lo0-gsr1-ty1.gdgz.cncnet.net
+127.0.0.1 lo0-gsr1-xx1.gdgz.cncnet.net
+127.0.0.1 lo0-gsr1-zj1.gdgz.cncnet.net
+127.0.0.1 lo0-gsr1-zq1.gdgz.cncnet.net
+127.0.0.1 lo0-gsr2-th1.gdgz.cncnet.net
+127.0.0.1 lo0-gsr2-ty2.gdgz.cncnet.net
+127.0.0.1 lo0-gsr2-xx1.gdgz.cncnet.net
+127.0.0.1 lo0-gsr2-zj1.gdgz.cncnet.net
+127.0.0.1 lo0-gsr2-zq1.gdgz.cncnet.net
+127.0.0.1 lo0-gsr3-ty1.gdgz.cncnet.net
+127.0.0.1 lo0-gsr7-zq1.gdgz.cncnet.net
+127.0.0.1 lo0-rtr1-gyy1.gdgz.cncnet.net
+127.0.0.1 lo0-rtr3-th1.gdgz.cncnet.net
+127.0.0.1 lo0-rtr3-xx1.gdgz.cncnet.net
+127.0.0.1 lo0-rtr3-zj1.gdgz.cncnet.net
+127.0.0.1 lo0-rtr3-zq1.gdgz.cncnet.net
+127.0.0.1 lo0-rtr4-th1.gdgz.cncnet.net
+127.0.0.1 lo0-rtr4-ty1.gdgz.cncnet.net
+127.0.0.1 lo0-rtr4-xx1.gdgz.cncnet.net
+127.0.0.1 lo0-rtr4-zj1.gdgz.cncnet.net
+127.0.0.1 lo0-rtr4-zq1.gdgz.cncnet.net
+127.0.0.1 lo0-rtr5-th1.gdgz.cncnet.net
+127.0.0.1 lo0-rtr5-ty1.gdgz.cncnet.net
+127.0.0.1 lo0-rtr5-zq1.gdgz.cncnet.net
+127.0.0.1 lo0-rtr6-th1.gdgz.cncnet.net
+127.0.0.1 lo0-rtr6-ty1.gdgz.cncnet.net
+127.0.0.1 lo0-rtr6-zq1.gdgz.cncnet.net
+127.0.0.1 lo0-rtr7-th1.gdgz.cncnet.net
+127.0.0.1 lo2.me
+127.0.0.1 load.exelator.com
+127.0.0.1 load.instinctiveads.com
+127.0.0.1 load.proximabeta.com
+127.0.0.1 load.quyu.qq.com
+127.0.0.1 load.qzs.qq.com
+127.0.0.1 load.s3.amazonaws.com
+127.0.0.1 load.scanscout.com
+127.0.0.1 load.sumome.com
+127.0.0.1 load.syzs.qq.com
+127.0.0.1 load.tdm.qq.com
+127.0.0.1 load.weixin.qq.com
+127.0.0.1 load.wns.qq.com
+127.0.0.1 load77.exelator.com
+127.0.0.1 loadbalancer.acc.qq.com
+127.0.0.1 loadbalancer.akamaized.net
+127.0.0.1 loadbalancer.pubgmobile.tencent.com
+127.0.0.1 loadbalancer.server.tencent.com
+127.0.0.1 loadbalancer.smtp.qq.com
+127.0.0.1 loadbalancer.syzs.qq.com
+127.0.0.1 loadbalancer.tdm.qq.com
+127.0.0.1 loadbalancer.tencent.qq.com
+127.0.0.1 loadbalancer.weixin.qq.com
+127.0.0.1 loader.topadvert.ru
+127.0.0.1 loadeu.exelator.com
+127.0.0.1 loadm.exelator.com
+127.0.0.1 loadtest.jawwy.tv.akamaized.net
+127.0.0.1 loadtestsub.jawwy.tv.akamaized.net
+127.0.0.1 loadus.exelator.com
+127.0.0.1 loady.de.intellitxt.com
+127.0.0.1 loansforbadcredit.netajax.googleapis.com
+127.0.0.1 lobby-h5c-20191029-15907995-ems1029hotfix1-gz-us.storage.googleapis.com
+127.0.0.1 lobby-h5c-20191107-16047693-ems1112release7-gz-us.storage.googleapis.com
+127.0.0.1 lobby.igamec.com
+127.0.0.1 lobby.igamecj.com
+127.0.0.1 lobby.minigame.qq.com
+127.0.0.1 lobby.qq.com
+127.0.0.1 lobby.sexlist.com
+127.0.0.1 lobby1.igamecj.com
+127.0.0.1 loc.map.qq.com
+127.0.0.1 loc.qq.com
+127.0.0.1 loc.vivo.com.cn
+127.0.0.1 loc1.hitsprocessor.com
+127.0.0.1 local
+127.0.0.1 local-p2p.qq.com
+127.0.0.1 local.city.qq.com
+127.0.0.1 local.googleusercontent.com
+127.0.0.1 local.helpshift.com 54.183.16.146
+127.0.0.1 local.imap.qq.com
+127.0.0.1 local.ndtv.com-172.32.0.16
+127.0.0.1 local.nissanusa.com
+127.0.0.1 local.proximabeta.com
+127.0.0.1 local.pubgmobile.com
+127.0.0.1 local.pvp.qq.com
+127.0.0.1 local.qq.com
+127.0.0.1 www.hackgv.com
+127.0.0.1 www.hacklq.com
+127.0.0.1 www.muahack.net
+127.0.0.1 www.cheatvn.net
+202.92.6.43 muahack.net
+127.0.0.1 202.92.6.43
+127.0.0.1 hackgv.com
+127.0.0.1 hacklq.com
+127.0.0.1 muahack.net
+127.0.0.1 cheatvn.net
+127.0.0.1 local.qq.com-163.177.90.84
+127.0.0.1 local.qq.proximabeta.com
+127.0.0.1 local.quyu.qq.com
+127.0.0.1 local.qzs.qq.com
+127.0.0.1 local.server.tencent.com
+127.0.0.1 local.smtp.qq.com
+127.0.0.1 local.start.qq.com
+127.0.0.1 local.syzs.qq.com
+127.0.0.1 local.tdm.qq.com
+127.0.0.1 local.tencent.com
+127.0.0.1 local.tencent.qq.com
+127.0.0.1 local.tpns.qq.com
+127.0.0.1 local.weixin.qq.com
+127.0.0.1 local.wns.qq.com
+127.0.0.1 local.work.weixin.qq.com
+127.0.0.1 localhos.qq.com
+127.0.0.1 localhost
+127.0.0.1 localhost.adjust.com
+127.0.0.1 localhost.ajax.googleapis.com
+127.0.0.1 localhost.com
+127.0.0.1 localhost.googleapis.com
+127.0.0.1 localhost.guanjia.qq.com
+127.0.0.1 localhost.helpshift.com
+127.0.0.1 localhost.lndl.cncnet.net
+127.0.0.1 localhost.localdomain
+127.0.0.1 localhost.m.qq.com
+127.0.0.1 localhost.maps.googleapis.com
+127.0.0.1 localhost.ptlogin2.pengyou.com
+127.0.0.1 localhost.ptlogin2.qcloud.com
+127.0.0.1 localhost.ptlogin2.qq.com
+127.0.0.1 localhost.ptlogin2.tencent.com
+127.0.0.1 localhost.ptlogin2.tenpay.com
+127.0.0.1 localhost.qq.com
+127.0.0.1 localhost.qqgame.qq.com
+127.0.0.1 localhost.sec.qq.com
+127.0.0.1 localhost.sinopec.com
+127.0.0.1 localhost.storage.googleapis.com
+127.0.0.1 localhost.web.yudian.qq.com
+127.0.0.1 localhost.weixin.qq.com
+127.0.0.1 localhost.wwbizsrv.alibaba.com
+127.0.0.1 localhost1::ip6-localhost
+127.0.0.1 localhost:8888
+127.0.0.1 localhost::1ip6-localhost
+127.0.0.1 localhostfonts.googleapis.com
+127.0.0.1 localhosts
+127.0.0.1 localking.akamaized.net
+127.0.0.1 locallan.tencent.com
+127.0.0.1 localland.cloud.tencent.com
+127.0.0.1 localmm
+127.0.0.1 localoye.helpshift.com
+127.0.0.1 locatera.strikingly.com
+127.0.0.1 location.data.cnzz.com
+127.0.0.1 location.qq.com
+127.0.0.1 lockapi.felinkapps.com.akamaized.net
+127.0.0.1 locker-pa.googleapis.com
+127.0.0.1 lockergnome.us.intellitxt.com
+127.0.0.1 lockhart-beta-static.storage.googleapis.com
+127.0.0.1 lockviewspubgmobile.qq.com
+127.0.0.1 locojoyhw.helpshift.com
+127.0.0.1 locoy.qq.com
